@@ -35,3 +35,4 @@ C:\Users\yusuf\Documents\CSharp\MonoGame\SuperFlashBros\obj\Debug\net9.0\SuperFl
 C:\Users\yusuf\Documents\CSharp\MonoGame\SuperFlashBros\obj\Debug\net9.0\SuperFlashBros.genruntimeconfig.cache
 C:\Users\yusuf\Documents\CSharp\MonoGame\SuperFlashBros\obj\Debug\net9.0\ref\SuperFlashBros.dll
 C:\Users\yusuf\Documents\CSharp\MonoGame\SuperFlashBros\bin\Debug\net9.0\Content\rectangle_cutout.xnb
+C:\Users\yusuf\Documents\CSharp\MonoGame\SuperFlashBros\obj\Debug\net9.0\SuperFlashBros.sourcelink.json
