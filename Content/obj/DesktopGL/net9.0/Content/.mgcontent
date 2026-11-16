@@ -4,9 +4,11 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/yusuf/Documents/CSharp/MonoGame/SuperFlashBros/Content/Papa_Test.png</File>
     <File>C:/Users/yusuf/Documents/CSharp/MonoGame/SuperFlashBros/Content/rectangle_cutout.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

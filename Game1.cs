@@ -9,6 +9,7 @@ public class Game1 : Game
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
     public StageManager stage = new StageManager();
+    public Actor player = new Actor();
 
     public Game1()
     {
@@ -23,6 +24,7 @@ public class Game1 : Game
         Window.Title = "Super Flash Bros";
         base.Initialize();
         stage.Init(GameContent.rectangle_cutout_stage);
+        player.Spawn(GameContent.Papa_Test, true, "Test");
         
     }
 
@@ -51,6 +53,7 @@ public class Game1 : Game
         // TODO: Add your drawing code here
         _spriteBatch.Begin();
         stage.Draw();
+        player.Draw();
         _spriteBatch.End();
 
         base.Draw(gameTime);
