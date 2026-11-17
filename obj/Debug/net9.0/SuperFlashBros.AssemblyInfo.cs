@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperFlashBros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c37698381df63d8c09fa4e689427f53381836f86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a18fca70af713f970a2b69c7f72ea9145f2ff8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperFlashBros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperFlashBros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
